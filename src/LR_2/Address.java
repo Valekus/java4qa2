@@ -1,6 +1,10 @@
 package LR_2;
 
 public class Address {
+
+    int Index;
+    String Street;
+
     public int getIndex() {
         return Index;
     }
@@ -17,7 +21,5 @@ public class Address {
         Street = street;
     }
 
-int Index;
-String Street;
 
 }

@@ -11,6 +11,6 @@ public class Main {
         address.setIndex(465465);
         address.setStreet("Bocharova");
         contact.setAddress(address);
-      
+
     }
 }
